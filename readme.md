@@ -1,6 +1,6 @@
 # Small World
 
-- [GitHub](https://github.com/brunosimon/small-world)
+- [GitHub](https://github.com/simond110/small-world.git)
 - [Live](https://small-world.vercel.app)
 
 ## Setup
